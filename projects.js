@@ -12,9 +12,10 @@ const projects = [
         title: "Smart Sorting", 
         author: "Tharun Kumar",
         description: "Smart Sorting is an AI-powered system designed to detect and classify rotten fruits and vegetables using transfer learning with the VGG16 model.",
-        tech: ["JavaScript", "API", "CSS"],
+        tech: ["TensorFlow/Keras", "Python", "Flask","OpenCV"],
         liveUrl: "https://github.com/Tarun25-dev/Smart-sorting/",
         repoUrl: "https://github.com/Tarun25-dev/Smart-sorting/"
     },
 
 ];
+
