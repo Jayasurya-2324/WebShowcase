@@ -2,8 +2,6 @@
 
 Modern portfolio showcase with real-time search. **Add your projects in 30 seconds!**
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-Click_Here-green)](https://tarun25-dev.github.io/WebShowcase)
-
 ---
 
 ## ✨ Why Add Your Project?
