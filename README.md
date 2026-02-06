@@ -50,4 +50,4 @@ WebShowcase/
 └── README.md        # Contribution guide
 ```
 
-# Fork → Edit projects.js → PR → Featured instantly! 🎉
+** Fork → Edit projects.js → PR → Featured instantly! 🎉
