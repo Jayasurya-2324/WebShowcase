@@ -21,7 +21,7 @@ Modern portfolio showcase with real-time search. **Add your projects in 30 secon
 
 ## 🚀 Add Project
 
-\`\`\`javascript
+```javascript
 {
     title: "Your Project",
     author: "Your Name",
@@ -29,7 +29,7 @@ Modern portfolio showcase with real-time search. **Add your projects in 30 secon
     tech: ["HTML", "CSS", "JS"],
     liveUrl: "https://your-live-site.com"
 },
-\`\`\`
+```
 
 ## ✅ Requirements
 
