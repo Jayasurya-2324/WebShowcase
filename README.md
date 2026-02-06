@@ -37,3 +37,17 @@ Modern portfolio showcase with real-time search. **Add your projects in 30 secon
 - **Public GitHub repo**
 - **Working project**
 - **No duplicates**
+
+## 🤝 Perfect PR Example
+
+Title: Add Todo App by Tarun
+Body: Live demo: https://todo.tarun.netlify.app ✅
+
+## 📁 Files
+
+├── index.html     # Main page
+├── style.css      # Styles
+├── script.js      # Logic
+└── projects.js    # ← ADD HERE!
+
+# Fork → Edit projects.js → PR → Featured instantly! 🎉
