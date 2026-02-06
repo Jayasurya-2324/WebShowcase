@@ -19,20 +19,21 @@ Modern portfolio showcase with real-time search. **Add your projects in 30 secon
 2. **Edit** `projects.js` 
 3. **Submit** PR
 
-```javascript
-// Copy this exact format 👇
+## 🚀 Add Project
+
+\`\`\`javascript
 {
     title: "Your Project",
-    author: "Your Name", 
-    description: "Short description",
+    author: "Your Name",
+    description: "Short description", 
     tech: ["HTML", "CSS", "JS"],
     liveUrl: "https://your-live-site.com"
 },
-
+\`\`\`
 
 ## ✅ Requirements
 
-✅ Live demo (REQUIRED)
-✅ Public GitHub repo
-✅ Working project
-✅ No duplicates
+- **Live demo** (REQUIRED)
+- **Public GitHub repo**
+- **Working project**
+- **No duplicates**
